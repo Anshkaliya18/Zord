@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Build Files
+build/
+dist/
+
+# Logs
+*.log
+
+# SQLite Databases
+*.db
+
+# OS Files
+Thumbs.db
+.DS_Store

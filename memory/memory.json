@@ -1,0 +1,25 @@
+{
+    "name": "ansh",
+    "preferred_name": "",
+    "age": "unknown",
+    "education": {
+        "level": "",
+        "college_or_school": "",
+        "course_or_branch": ""
+    },
+    "location": "",
+    "skills": [],
+    "projects": [],
+    "device_preferences": [],
+    "language_preferences": [],
+    "study_goals": [],
+    "work_or_career_goals": [],
+    "hobbies_or_interests": [
+        "cricketer"
+    ],
+    "writing_preferences": [],
+    "other_safe_notes": [],
+    "conflicts_or_uncertainties": [
+        "Previous hobby 'cricketer' removed; user states no interest in hobbies."
+    ]
+}
