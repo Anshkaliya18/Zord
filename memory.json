@@ -1,0 +1,21 @@
+{
+    "name": "",
+    "preferred_name": "",
+    "age": "",
+    "education": {
+        "level": "",
+        "college_or_school": "",
+        "course_or_branch": ""
+    },
+    "location": "",
+    "skills": [],
+    "projects": [],
+    "device_preferences": [],
+    "language_preferences": [],
+    "study_goals": [],
+    "work_or_career_goals": [],
+    "hobbies_or_interests": [],
+    "writing_preferences": [],
+    "other_safe_notes": [],
+    "conflicts_or_uncertainties": []
+}
